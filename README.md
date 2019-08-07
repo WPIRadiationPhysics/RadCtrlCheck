@@ -2,7 +2,11 @@
 Radiographic collimator compliance check for Android
 
 ## Synopsis
-RadCtrlCheck is an app which allows the medical physicist to check for compliance of 105 CMR 120.406(A) of an x-ray system in less than a minute. The user takes a photo of a fluorescent film post irration, defines the expected border with a finger-drag, then defines the actual border with another finger-drag. The compliance is met if the actual and expected borders are within 5% of each other.
+RadCtrlCheck is an app which allows the medical physicist to check for compliance of 105 CMR 120.406(A) of an x-ray system in less than a minute. The user takes a photo of a fluorescent film post irration, defines the expected border with a finger-drag, then defines the actual border with another finger-drag.
+
+Per 105 CMR 120.406(A)(1)(b):
+
+  *The total misalignment of the edges of the visually defined field with the respective edges of the x-ray field along either the length or width of the visually defined field shall not exceed 2% of the distance from the source to the center of the visually defined field when the surface upon which it appears is perpendicular to the axis of the x-ray beam*
 
 ## Usage
 1. Click "DROID SCAN LITE" in RadCtrlCheck to enter Droid Scan Lite app (not included)
