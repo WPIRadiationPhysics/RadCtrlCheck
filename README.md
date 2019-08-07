@@ -14,4 +14,4 @@ RadCtrlCheck is an app which allows the medical physicist to check for complianc
 7. Click "MEASURE" to initiate compliance check calculations
 
 ## Screenshots
-<p><img src="Screenshot_screen1.png" alt="Screenshot of RadCtrlCheck main screen" width="100px"><img src="Screenshot_screen2.png" alt="Screenshot of Droid Scan Lite screen, a required third-party software" width="100px"><img src="Screenshot_screen3.png" alt="Screenshot of RadCtrlCheck measurement screen with image of fluorescent film" width="100px"><img src="Screenshot_screen4.png" alt="Screenshot of RadCtrlCheck compliance check dialog" width="100px"></p>
+<p><img src="Screenshot_screen1.png" alt="Screenshot of RadCtrlCheck main screen" width="200px"><img src="Screenshot_screen2.png" alt="Screenshot of Droid Scan Lite screen, a required third-party software" width="200px"><img src="Screenshot_screen3.png" alt="Screenshot of RadCtrlCheck measurement screen with image of fluorescent film" width="200px"><img src="Screenshot_screen4.png" alt="Screenshot of RadCtrlCheck compliance check dialog" width="200px"></p>
