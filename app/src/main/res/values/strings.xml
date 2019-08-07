@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RadCtrlCheck</string>
+    <!-- Global -->
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <!-- Main Menu Activity -->
+    <string name="Main_label">RadCtrlCheck</string>
+    <string name="textMainInfo">X-Rays in the Healing Arts\n\n105 CMR 120.406(A)\n\nDiagnostic X-Ray Systems\nBeam Limitation compliance check\n\n</string>
+    <string name="textStep1">1. Capture visually defined field.\n</string>
+    <string name="textStep2">\n\n2. Import orthogonal image from gallery.\n</string>
+    <string name="buttonDroidScanLite">Droid Scan Lite</string>
+    <string name="buttonImportFullArea">Import image</string>
+
+    <!-- Analysis Activity -->
+    <string name="ImageAnalysis_label">RadCtrlCheck - Analysis</string>
+    <string name="textAnalysisInfo">Drag a rectangle from the top left to bottom right of the x-ray area, then hit MEASURE to test for compliance.\n</string>
+    <string name="buttonMeasureXRay">MEASURE</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:id="@+id/textMainInfo"
+        android:text="@string/textMainInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:id="@+id/textStep1"
+        android:text="@string/textStep1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textMainInfo"
+        />
+    <Button
+        android:id="@+id/buttonDroidScanLite"
+        android:text="@string/buttonDroidScanLite"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textStep1"
+        android:onClick="eventOpenDroidScanLite"
+        />
+    <TextView
+        android:id="@+id/textStep2"
+        android:text="@string/textStep2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/buttonDroidScanLite"
+        />
+    <Button
+        android:id="@+id/buttonImportFullArea"
+        android:text="@string/buttonImportFullArea"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textStep2"
+        android:onClick="eventImportFullArea"
+        />
+</RelativeLayout>
